@@ -1,7 +1,7 @@
 package Tarea02;
 import javax.swing.*;
 
-public class PhoneWord {
+public class Telefono {
 	    public static void main(String[] args) {
 	        JFrame frame = new JFrame("Mi primera app con Java Swing");
 	        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
