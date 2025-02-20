@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class PhoneNumberTranslator {
+public class NumeroCelularTraductor {
     private static String[] numberToText = {
             "Cero", "Uno", "Dos", "Tres", "Cuatro", "Cinco",
             "Seis", "Siete", "Ocho", "Nueve"
